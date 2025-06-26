@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1083-two-sum-less-than-k](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1083-two-sum-less-than-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0792-binary-search) |
 | [1083-two-sum-less-than-k](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1083-two-sum-less-than-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0066-plus-one) |
+| [0633-sum-of-square-numbers](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |

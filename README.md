@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0792-binary-search) |
 | [1083-two-sum-less-than-k](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1083-two-sum-less-than-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1083-two-sum-less-than-k](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1083-two-sum-less-than-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0408-valid-word-abbreviation](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String Matching
 |  |
 | ------- |

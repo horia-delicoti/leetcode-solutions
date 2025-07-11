@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0792-binary-search) |
 | [1083-two-sum-less-than-k](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1083-two-sum-less-than-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1083-two-sum-less-than-k](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1083-two-sum-less-than-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Dynamic Programming
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |

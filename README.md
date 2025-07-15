@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0792-binary-search) |
 | [1083-two-sum-less-than-k](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1083-two-sum-less-than-k) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |

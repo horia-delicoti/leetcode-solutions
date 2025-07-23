@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1083-two-sum-less-than-k](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1083-two-sum-less-than-k) |
 | [1168-duplicate-zeros](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1168-duplicate-zeros) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1083-two-sum-less-than-k](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1083-two-sum-less-than-k) |
 | [1168-duplicate-zeros](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1168-duplicate-zeros) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0792-binary-search) |
 | [1083-two-sum-less-than-k](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1083-two-sum-less-than-k) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Math
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1083-two-sum-less-than-k](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1083-two-sum-less-than-k) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Dynamic Programming
 |  |
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0792-binary-search) |
+| [0978-valid-mountain-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1083-two-sum-less-than-k](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1083-two-sum-less-than-k) |
 | [1168-duplicate-zeros](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1168-duplicate-zeros) |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0792-binary-search) |
 | [0978-valid-mountain-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0978-valid-mountain-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0408-valid-word-abbreviation](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0408-valid-word-abbreviation) |
 | [0633-sum-of-square-numbers](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |

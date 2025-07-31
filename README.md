@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1083-two-sum-less-than-k](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1083-two-sum-less-than-k) |
+| [1137-height-checker](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1168-duplicate-zeros) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1083-two-sum-less-than-k](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1083-two-sum-less-than-k) |
+| [1137-height-checker](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Dynamic Programming
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->

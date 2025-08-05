@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0487-max-consecutive-ones-ii](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0487-max-consecutive-ones-ii) |
 | [0792-binary-search](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0978-valid-mountain-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0487-max-consecutive-ones-ii](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0487-max-consecutive-ones-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1137-height-checker) |
+## Sliding Window
+|  |
+| ------- |
+| [0487-max-consecutive-ones-ii](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0487-max-consecutive-ones-ii) |
 <!---LeetCode Topics End-->

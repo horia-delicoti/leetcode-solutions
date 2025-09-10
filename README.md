@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/horia-delicoti/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -142,5 +144,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/horia-delicoti/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

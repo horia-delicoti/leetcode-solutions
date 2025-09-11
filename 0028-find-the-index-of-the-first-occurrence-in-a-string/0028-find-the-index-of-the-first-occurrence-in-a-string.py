@@ -1,12 +1,12 @@
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
-        m = len(needle)
-        n = len(haystack)
+        m = len(haystack)
+        n = len(needle)
 
-        for window in range(n - m + 1):
-            for i in range(m):
-                if needle[i] != haystack[window + i]:
+        for i in range(m - n + 1):
+            for j in range(n):
+                if haystack[i+j] != needle[j]:
                     break
-                if i == m - 1:
-                    return window
+            else:
+                return i
         return -1
